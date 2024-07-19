@@ -1,4 +1,4 @@
-# Gunshot Detection Alarm Device
+# SECRNN Gunshot Alarm
 
 [![Project Demo](https://img.youtube.com/vi/Q8h_Qf6KS74/0.jpg)](https://youtu.be/Q8h_Qf6KS74)
 
@@ -16,7 +16,7 @@ This project aims to improve law enforcement reaction time by developing a gunsh
 
 ## Project Documentation
 
-- [Project Report](https://docs.google.com/document/d/1PLTL0GT4mDv7MRuZTo727VBNo3oW_VWpe3a4USZLz04/edit?usp=sharing)
+- [Research Paper](https://docs.google.com/document/d/1PLTL0GT4mDv7MRuZTo727VBNo3oW_VWpe3a4USZLz04/edit?usp=sharing)
 - [Presentation 1](https://docs.google.com/presentation/d/1m6s5ke25lyPTwZDbIXAbxjvut6nWUf-m3mejdVA5OSM/edit?usp=sharing)
 - [Presentation 2](https://docs.google.com/presentation/d/1Q3NYl_UWfafFcsRuGGvbzul4kimvUd6Kqr9Yn3JhsOM/edit?usp=sharing)
 - [YouTube Video Demo](https://youtu.be/Q8h_Qf6KS74)
