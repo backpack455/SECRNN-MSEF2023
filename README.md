@@ -1,6 +1,6 @@
 # Gunshot Detection Alarm Device
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q8h_Qf6KS74" frameborder="0" allowfullscreen></iframe>
+[![Project Demo](https://img.youtube.com/vi/Q8h_Qf6KS74/0.jpg)](https://youtu.be/Q8h_Qf6KS74)
 
 ## Overview
 
