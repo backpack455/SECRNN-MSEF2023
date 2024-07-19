@@ -20,6 +20,7 @@ This project aims to improve law enforcement reaction time by developing a gunsh
 - [Presentation 1](https://docs.google.com/presentation/d/1m6s5ke25lyPTwZDbIXAbxjvut6nWUf-m3mejdVA5OSM/edit?usp=sharing)
 - [Presentation 2](https://docs.google.com/presentation/d/1Q3NYl_UWfafFcsRuGGvbzul4kimvUd6Kqr9Yn3JhsOM/edit?usp=sharing)
 - [YouTube Video Demo](https://youtu.be/Q8h_Qf6KS74)
+- [Project Diagram](https://drive.google.com/file/d/1S6NCUwfFN-hs7NGmLr_iRAUqCGLjYXcS/view?usp=sharing)
 
 ## Components
 
@@ -27,6 +28,10 @@ This project aims to improve law enforcement reaction time by developing a gunsh
 - **Microphone**: Captures ambient sounds for analysis.
 - **SECRNN Model**: Analyzes audio input to detect gunshots.
 - **Alert System**: Sends notifications via email, SMS, or other communication methods.
+
+## Visual Overview
+
+![Device Overview](https://drive.google.com/uc?id=1S6NCUwfFN-hs7NGmLr_iRAUqCGLjYXcS)
 
 ## Setup Instructions
 
