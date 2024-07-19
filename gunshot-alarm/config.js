@@ -1,5 +1,5 @@
 export default firebaseConfig = {
-    apiKey: "AIzaSyCs8_3iT6nm-t14zYfTUisfWdeZnW7aX1s",
+    apiKey: "REDACTED",
     authDomain: "gunshotalam.firebaseapp.com",
     projectId: "gunshotalam",
     storageBucket: "gunshotalam.appspot.com",
