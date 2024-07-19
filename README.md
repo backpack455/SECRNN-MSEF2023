@@ -1,6 +1,5 @@
 # Gunshot Detection Alarm Device
 
-![Project Demo](https://youtu.be/Q8h_Qf6KS74)
 
 ## Overview
 
